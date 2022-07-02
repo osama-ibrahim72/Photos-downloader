@@ -69,3 +69,17 @@ form input:valid ~ button{
     opacity: 1;
     pointer-events: auto;
 }
+
+footer{
+    width: 100%;
+    align-items: center;
+    border-radius: 7px;
+    background: #fff;
+}
+footer h5{
+    text-align: center;
+}
+.links {
+    width: 250;
+    text-align: center;
+}
